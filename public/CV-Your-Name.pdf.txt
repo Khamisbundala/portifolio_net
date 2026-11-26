@@ -1,0 +1,5 @@
+Replace this file with your actual CV PDF.
+
+1. Add your CV as: public/CV-Your-Name.pdf
+2. Update cvUrl in src/data/site.js if you use a different filename.
+3. Delete this .txt file.
